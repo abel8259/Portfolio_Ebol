@@ -1,0 +1,294 @@
+*{
+	margin: 0px;  
+	padding: 0px;
+	font-family: 'Inconsolata', monospace;
+}
+
+html, body{
+	height:100%;
+}
+
+.side_1DE2-PC{
+    float:left; 
+    height:100%;
+	width:22%;
+	position: relative;
+	background-color:#006600; 
+
+}
+
+.mold-PC{
+	height:34%;
+	width:74%;
+	top:12%;
+	
+	left:13%; 
+	right:13%; 
+	position: relative;
+	background-color:#003300; 
+	border-radius: 50%;
+}
+
+#img-PC-EBOL{
+
+	height:83%;
+	width:84%;
+	top:9%;
+	
+	left:8%; 
+	right:8%; 
+	position: relative;
+	 
+	border-radius: 50%;
+
+}
+
+#ul-PC{
+	padding-top:62%;
+	left:9%;
+	width:82%;
+	right:9%;
+	position:relative;
+	text-align:center;
+	list-style-type: none; 
+
+}
+
+
+li{
+	margin-bottom: 9%; 
+	color: white;
+	font-weight:bold;
+	font-size:20px;
+	border: 2px solid white;
+	padding: 0 20% 0 20%; 
+	position:relative ;
+}
+
+a{
+
+	text-decoration:none; 
+
+}
+
+li:hover, li:active{
+	border: 2px solid black;
+	list-style-type: circle;
+	color:black;
+} 
+
+.side_2DE2-PC{
+	height:100%;
+	width:78%;
+	position: relative;
+	float:left; 
+
+
+}
+
+.banner_show_yourself-PC{
+
+position:relative;
+width:50%;
+height:80%;
+
+top:20%;
+left: 12%;
+
+
+}
+
+p{
+
+font-weight:bold;
+font-size:40px;
+color: #006600;
+padding-bottom: 50px; 
+}
+
+#cidade-PC{
+	font-weight:bold;
+	font-size:28px;
+	color: #003300;
+
+}
+
+#email-PC{
+	font-weight:bold;
+	font-size:28px;
+	color: black ;
+
+
+}
+
+#string-PC{
+	top: 50px; 
+	position:relative ;
+	font-size:20px;
+	color: grey;
+
+}
+
+.icons-social-PC{
+position:relative;
+width:50%;
+height:80%;
+
+top:-12%;
+left: 12%;
+
+
+}
+.icons-social-PC{
+    margin-top:20px;
+}
+
+.icons-social-PC a{
+    text-decoration:none;
+    color: white;
+    background-color: gray;
+    width:40px;
+    height:40px;
+    border-radius:20px;
+    display: inline-block;
+    margin:0 10px;
+    text-align: center;
+}
+
+.icons-social-PC i{
+    line-height:40px;
+}
+header.head-boss-MOBILE{display:none;}
+header.head-boss-MOBILE > h1{display:none;}
+header.head-boss-MOBILE > img{display:none;}
+section.sec-text{display:none;}
+#nome-MOBILE{display:none;}
+#nome-MOBILE-nome{display:none;}
+#cidade-MOBILE{display:none;}
+#cidade-MOBILE-cidade{display:none;}
+#email-PC{display:none;}
+#email-PC-email{display:none;}
+.line-1{display:none;}
+@media screen and (max-width: 982px) {
+	.side_1DE2-PC{display:none;}
+	.side_2DE2-PC{display:none;}
+
+	#img-MOBILE-e3{
+		display:block;
+		top:0%;
+		left:0%;
+		position:absolute; 
+	}
+
+	header.head-boss-MOBILE{
+		display:block;  
+		background-color:green;
+		width:100%;
+		height:45%;
+		position:relative;  
+		
+	}
+
+    header.head-boss-MOBILE > h1{
+		font-size:120px;
+		top: 18%;
+		left: 19.7%;
+		position:absolute;
+		color: white;
+		display:block;  
+    }
+
+	header.head-boss-MOBILE > img{
+		border-radius:50%;
+		border: 9px solid white;
+		top:55%;
+		left:19.2%; 
+		position:relative;
+		display:block;  
+	}
+
+
+	section.sec-text{
+        display:block;
+		padding-top:400px; 
+
+	}
+
+	#nome-MOBILE{
+        display:block;
+		left:0.7%;
+		font-weight:bold;
+		font-size:90px;
+		color: #006600;
+		padding-bottom: 50px; 
+        text-align:center; 
+		position:relative;
+		text-decoration: underline grey;
+	}
+
+	#nome-MOBILE-nome{
+		left:43.3%;
+		top:72.6%;
+		font-size:78.9px;
+		color: grey;
+		position: absolute;
+		display:block;
+	}
+
+	#cidade-MOBILE{
+		font-weight:bold;
+		left:30.3%;
+		top:78%;
+		font-size:90px;
+		color: #006600;
+		position: absolute;
+		text-decoration: underline grey;
+		display:block;
+	}
+
+	#cidade-MOBILE-cidade{
+		display:block;
+		left:39.2%;
+		top:83.2%;
+		font-size:78.9px;
+		color: grey;
+		position: absolute;
+
+	}
+
+	#email-PC{
+
+		left:23.3%;
+		top:90%;
+		font-size:49px;
+		color: #006600;
+		position: absolute;
+		text-decoration: underline grey;
+		font-weight:bold;
+		display:block;
+	}
+
+	#email-PC-email{
+        display:block;
+		left:44.3%;
+		top:92.7%;
+		font-size:47.9px;
+		color: grey;
+		position: absolute;
+		font-weight:bold;
+	}
+
+	.line-1{
+
+		background-color:green;
+		width:100%;
+        display:block;
+		height:90.5%;
+		top:97%;
+		position: absolute ; 
+
+	}
+
+}
+
+/*----colocar nome, cidade e email com underline -->   

@@ -1,0 +1,160 @@
+*{
+	margin: 0px;  
+	padding: 0px;
+	font-family: 'Inconsolata', monospace;
+}
+
+html, body{
+	height:100%;
+}
+
+.side_1DE2-PC{
+    float:left; 
+    height:100%;
+	width:22%;
+	position: relative;
+	background-color:#006600; 
+
+}
+
+.mold-PC{
+	height:34%;
+	width:74%;
+	top:12%;
+	
+	left:13%; 
+	right:13%; 
+	position: relative;
+	background-color:#003300; 
+	border-radius: 50%;
+}
+
+#img-PC-EBOL{
+
+	height:83%;
+	width:84%;
+	top:9%;
+	
+	left:8%; 
+	right:8%; 
+	position: relative;
+	 
+	border-radius: 50%;
+
+}
+
+#ul-PC{
+	padding-top:62%;
+	left:9%;
+	width:82%;
+	right:9%;
+	position:relative;
+	text-align:center;
+	list-style-type: none; 
+
+}
+
+
+li{
+	margin-bottom: 9%; 
+	color: white;
+	font-weight:bold;
+	font-size:20px;
+	border: 2px solid white;
+	padding: 0 20% 0 20%; 
+	position:relative ;
+}
+
+a{
+
+	text-decoration:none; 
+
+}
+
+li:hover, li:active{
+	border: 2px solid black;
+	list-style-type: circle;
+	color:black;
+} 
+
+.side_2DE2-PC{
+	height:100%;
+	width:78%;
+	position: relative;
+	float:left; 
+
+
+}
+
+.banner_show_yourself-PC{
+
+position:relative;
+width:50%;
+height:80%;
+
+top:20%;
+left: 12%;
+
+
+}
+
+p{
+
+font-weight:bold;
+font-size:40px;
+color: #006600;
+padding-bottom: 50px; 
+}
+
+#cidade-PC{
+	font-weight:bold;
+	font-size:28px;
+	color: #003300;
+
+}
+
+#email-PC{
+	font-weight:bold;
+	font-size:28px;
+	color: black ;
+
+
+}
+
+#string-PC{
+	top: 50px; 
+	position:relative ;
+	font-size:20px;
+	color: grey;
+
+}
+
+.icons-social{
+position:relative;
+width:50%;
+height:80%;
+
+top:-12%;
+left: 12%;
+
+
+}
+.icons-social{
+    margin-top:20px;
+}
+
+.icons-social a{
+    text-decoration:none;
+    color: white;
+    background-color: gray;
+    width:40px;
+    height:40px;
+    border-radius:20px;
+    display: inline-block;
+    margin:0 10px;
+    text-align: center;
+}
+
+.icons-social i{
+    line-height:40px;
+}
