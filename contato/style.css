@@ -1,0 +1,40 @@
+
+#form-ORCAMENTO{
+	background-color: #006600;
+	position: absolute;
+	height:40%;
+	width:18%;
+	top:58.8%;
+	left:70%; 
+	border: 3.5px solid #003300; 
+}
+
+#in-email-PC{
+	position: absolute;
+	height:10%;
+	width:91%;
+	top:0%;
+	left:0%;
+	padding:5px;  
+	border: 3.5px solid #ccc;
+}
+#in-text-PC{
+	position: absolute;
+	height:58.9%;
+	width:91%;
+	top:16.7%;
+	left:0%;
+	padding:5px;  
+	border: 3.5px solid #ccc;	
+}
+#in-submit-PC{
+	position: absolute;
+	height:17%;
+	width:99%;
+	top:83%;
+	left:0%;
+	padding:5px;  
+	font-weight:bold;
+	border: 3.5px solid #ccc;
+	cursor:pointer;	
+}
