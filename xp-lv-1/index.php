@@ -16,8 +16,25 @@
 					<img id="img-2-PC" src="../img_geral/xp-2.png"/>	
 				</div>	
 			</div>
+			<a href= "../copa_abel/index.php "> 
+			<div id="box-1">
+					<div id="title-img">
+						<img id="img-PC" src="../img_geral/mini-copa.png"/>
+					</div>
+
+					<div id="icon-img">
+						<img id="img-PC" src="../img_geral/mini-copa.png"/>
+					</div>
+
+					<div id="about-img">
+						<img id="img-2-PC" src="../img_geral/ev-text.png"/>
+					</div>
+
+				</div>
+			</a>
+
 			<a href="../design-pfolder/index.php">
-				<div id="box-1">
+			<div id="box-2">
 					<div id="title-img">
 						<img id="img-PC" src="../img_geral/design.png"/>
 					</div>
@@ -32,9 +49,8 @@
 
 				</div>
 			</a>
-
 			<a href="../soft-pfolder/index.php">
-				<div id="box-2">
+			<div id="box-3">
 					<div id="title-img">
 						<img id="img-PC" src="../img_geral/software.png"/>
 					</div>
@@ -50,7 +66,7 @@
 				</div>
 			</a>
 			<a href="../video-pfolder/index.php">
-				<div id="box-3">
+			<div id="box-4">
 					<div id="title-img">
 						<img id="img-PC" src="../img_geral/video.png"/>
 					</div>
@@ -66,8 +82,8 @@
 				</div>
 			</a>
 			<a href="../curriculum/index.php">
-				<div id="box-4">
-					<div id="title-img">
+			    <div id="box-5">
+				    <div id="title-img">
 						<img id="img-PC" src="../img_geral/terno.png"/>
 					</div>
 
@@ -82,7 +98,7 @@
 				</div>
 			</a>
 			<a href="../curriculumpg/index.php">
-				<div id="box-5">
+			    <div id="box-6">
 					<div id="title-img">
 						<img id="img-PC" src="../img_geral/PAG.png"/>
 					</div>
@@ -98,7 +114,7 @@
 				</div>
 			</a>
 			<a href="../menu_port_treino/index.php">
-				<div id="box-6">
+				<div id="box-7">
 					<div id="title-img">
 						<img id="img-PC" src="../img_geral/pp-ptt.png"/>
 					</div>
@@ -113,6 +129,7 @@
 
 				</div>
 			</a>
+			
 		</div>
 
 		<div id="side2-PC">

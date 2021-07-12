@@ -199,23 +199,10 @@
 
 			</div>
 
-			<div id="box-12">
-				<div id="title-img">
-					<img id="img-PC" src="../img_geral/college-png.png"/>
-				</div>
-
-				<div id="icon-img">
-					<img id="img-PC" src="../img_geral/college-png.png"/>
-				</div>
-
-				<div id="about-img">
-					<img id="img-2-PC" src="../img_geral/harvard.png"/>
-				</div>
-
-			</div>
+		
 
 			<a href="../UVA/index.php"> 
-				<div id="box-13">
+				<div id="box-12">
 
 					<div id="title-img">
 						<img id="img-PC" src="../img_geral/college-png.png"/>
@@ -232,7 +219,7 @@
 				</div>
 			</a>
 			<a href="#"> 
-				<div id="box-14">
+				<div id="box-13">
 
 					<div id="title-img">
 						<img id="img-PC" src="../img_geral/lit.png"/>

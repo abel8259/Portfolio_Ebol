@@ -10,32 +10,17 @@
 			<div id="box-link-5-PC">
 
 				<div id="box-img-9-PC">
-					<img id="img-PC" src="../img_geral/ppema.png"/>	
+					<img id="img-PC" src="../img_geral/ppprnts.png"/>	
 				</div>
 
 				<div id="box-texto-10-PC">
-					<img id="img-2-PC" src="../img_geral/ema.png"/>	
+					<img id="img-2-PC" src="../img_geral/pronts.png"/>	
 				</div>	
 			</div>
-			<a href="../ldpg-v/index.php"> 
-				<div id="box-1">
-					<div id="title-img">
-						<img id="img-PC" src="../img_geral/cell.png"/>	
-					</div>
-
-					<div id="icon-img">
-						<img id="img-PC" src="../img_geral/cellH.png"/>	>
-					</div>
-
-					<div id="about-img">
-						<img id="img-2-PC" src="../img_geral/ldpg.png"/>
-					</div>
-
-				</div>
-			</a>
+			
 
 			<a href="../ph-projetos-de-video/index.php"> 
-				<div id="box-2">
+				<div id="box-1">
 					<div id="title-img">
 						<img id="img-PC" src="../img_geral/cell.png"/>	
 					</div>
@@ -52,23 +37,24 @@
             </a>
 
 
-            <a href="#"> 
-				<div id="box-3">
+           
+            <a href="#">
+				<div id="box-2">
 					<div id="title-img">
-						<img id="img-PC" src="../img_geral/cell.png"/>	
+						<img id="img-PC" src="../img_geral/cell.png"/>
 					</div>
 
 					<div id="icon-img">
-						<img id="img-PC" src="../img_geral/cellL.png"/>	
+						<img id="img-PC" src="../img_geral/cellsv.png"/>
 					</div>
 
 					<div id="about-img">
-						<img id="img-2-PC" src="../img_geral/pbrh.png"/>					
+						<img id="img-2-PC" src="../img_geral/rd-pfc.png"/>
 					</div>
 
 				</div>
-            </a>
-            
+			</a>
+		
 		</div>
     
 		<div id="side2-PC">

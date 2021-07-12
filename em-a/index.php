@@ -21,7 +21,7 @@
 		
 
 
-            <a href="#">
+            <a href="https://suco-io.herokuapp.com/">
 				<div id="box-1">
 					<div id="title-img">
 						<img id="img-PC" src="../img_geral/cell.png"/>	
@@ -39,10 +39,10 @@
 			</a>
 
 			
-			<a href="#">
+			<a href="https://crafting-web-paper.herokuapp.com/">
 				<div id="box-2">
 					<div id="title-img">
-						<img id="img-PC" src="../img_geral/cell.png"/>	
+						<img id="img-PC" src="../img_geral/cell.png"/>
 					</div>
 
 					<div id="icon-img">
@@ -50,12 +50,11 @@
 					</div>
 
 					<div id="about-img">
-						<img id="img-2-PC" src="../img_geral/ODONTO_ariel.png"/>
+						<img id="img-2-PC" src="../img_geral/portal-de-noticias.png"/>
 					</div>
 
 				</div>
 			</a>
-
 			
 		</div>
     
