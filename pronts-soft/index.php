@@ -37,24 +37,9 @@
 
 
 
-            <a href="#"> 
-				<div id="box-2">
-					<div id="title-img">
-						<img id="img-PC" src="../img_geral/cell.png"/>	
-					</div>
-
-					<div id="icon-img">
-						<img id="img-PC" src="../img_geral/cellcv.png"/>	
-					</div>
-
-					<div id="about-img">
-						<img id="img-2-PC" src="../img_geral/pbrh.png"/>					
-					</div>
-
-				</div>
-            </a>
+            
             <a href="https://apployd.herokuapp.com/src/home/index.php">
-				<div id="box-3">
+				<div id="box-2">
 					<div id="title-img">
 						<img id="img-PC" src="../img_geral/cell.png"/>	
 					</div>
@@ -70,7 +55,7 @@
 				</div>
 			</a>
 			<a href="https://portfolioebol.herokuapp.com/">
-				<div id="box-4">
+				<div id="box-3">
 					<div id="title-img">
 						<img id="img-PC" src="../img_geral/cell.png"/>	
 					</div>
@@ -86,26 +71,11 @@
 				</div>
 			</a>
 
-			<a href="https://artar-abel.herokuapp.com/">
-				<div id="box-5">
-					<div id="title-img">
-						<img id="img-PC" src="../img_geral/cell.png"/>
-					</div>
-
-					<div id="icon-img">
-						<img id="img-PC" src="../img_geral/cellcv.png"/>
-					</div>
-
-					<div id="about-img">
-						<img id="img-2-PC" src="../img_geral/rtr.png"/>
-					</div>
-
-				</div>
-			</a>
+			
 
 			
         <a href="https://sigdu-kingdom.herokuapp.com/">
-			<div id="box-6">
+			<div id="box-4">
 				<div id="title-img">
 					<img id="img-PC" src="../img_geral/cell.png"/>	
 				</div>
@@ -122,7 +92,7 @@
 		</a>
 
 			<a href="https://resig-home.herokuapp.com/">
-				<div id="box-7">
+				<div id="box-5">
 					<div id="title-img">
 						<img id="img-PC" src="../img_geral/cell.png"/>	
 					</div>

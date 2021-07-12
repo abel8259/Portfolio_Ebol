@@ -31,7 +31,7 @@
 					</div>
 
 					<div id="about-img">
-						<img id="img-2-PC" src="../img_geral/stud4.png"/>
+					<img id="img-2-PC" src="../img_geral/diary.png"/>
 					</div>
 
 				</div>
@@ -48,114 +48,24 @@
 					</div>
 
 					<div id="about-img">
-						<img id="img-2-PC" src="../img_geral/diary.png"/>
-					</div>
-
-				</div>
-			</a>
-
-			<a href="#">
-				<div id="box-3">
-					<div id="title-img">
-						<img id="img-PC" src="../img_geral/cell.png"/>
-					</div>
-
-					<div id="icon-img">
-						<img id="img-PC" src="../img_geral/cellsv.png"/>
-					</div>
-
-					<div id="about-img">
-						<img id="img-2-PC" src="../img_geral/CONTROLE.png"/>
-					</div>
-
-				</div>
-			</a>
-
-			<a href="#">
-				<div id="box-4">
-					<div id="title-img">
-						<img id="img-PC" src="../img_geral/cell.png"/>
-					</div>
-
-					<div id="icon-img">
-						<img id="img-PC" src="../img_geral/cellsv.png"/>
-					</div>
-
-					<div id="about-img">
-						<img id="img-2-PC" src="../img_geral/dacmp.png"/>
-					</div>
-
-				</div>
-			</a>
-
-			<a href="#">
-				<div id="box-5">
-					<div id="title-img">
-						<img id="img-PC" src="../img_geral/cell.png"/>
-					</div>
-
-					<div id="icon-img">
-						<img id="img-PC" src="../img_geral/cellsv.png"/>
-					</div>
-
-					<div id="about-img">
-						<img id="img-2-PC" src="../img_geral/cli-stock.png"/>
-					</div>
-
-				</div>
-			</a>
-
-			<a href="#">
-				<div id="box-6">
-					<div id="title-img">
-						<img id="img-PC" src="../img_geral/cell.png"/>
-					</div>
-
-					<div id="icon-img">
-						<img id="img-PC" src="../img_geral/cellsv.png"/>
-					</div>
-
-					<div id="about-img">
-						<img id="img-2-PC" src="../img_geral/portal-de-noticias.png"/>
+					<img id="img-2-PC" src="../img_geral/cli-stock.png"/>
 					</div>
 
 				</div>
 			</a>
 
 			
-			<a href="#">
-				<div id="box-7">
-					<div id="title-img">
-						<img id="img-PC" src="../img_geral/cell.png"/>
-					</div>
 
-					<div id="icon-img">
-						<img id="img-PC" src="../img_geral/cellsv.png"/>
-					</div>
+			
 
-					<div id="about-img">
-						<img id="img-2-PC" src="../img_geral/cadp.png"/>
-					</div>
+			
 
-				</div>
-			</a>
+			
 
-			<a href="#">
-				<div id="box-8">
-					<div id="title-img">
-						<img id="img-PC" src="../img_geral/cell.png"/>
-					</div>
+			
+		
 
-					<div id="icon-img">
-						<img id="img-PC" src="../img_geral/cellsv.png"/>
-					</div>
-
-					<div id="about-img">
-						<img id="img-2-PC" src="../img_geral/rd-pfc.png"/>
-					</div>
-
-				</div>
-			</a>
+			
 
 		</div>
 
