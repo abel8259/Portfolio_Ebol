@@ -70,7 +70,24 @@
 
 				</div>
 			</a>
+			<a href="../ebol-copa/index.php" >
+				<div id="box-4">
 
+					<div id="title-img">
+					<img id="img-2-PC" src="../img_geral/ebol.png"/>
+					</div>
+
+					<div id="icon-img">
+						<img id="img-PC" src="../img_geral/ppres.png"/>
+					</div>
+
+					<div id="about-img">
+						
+						<img id="img-PC" src="../img_geral/ebol-text.png"/>
+					</div>
+
+				</div>
+			</a>
 			
 			
 			
